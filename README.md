@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muqsit Hussain</h1>
-<h3 align="center">A passionate Backend Developer from Pakistan</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
-- 🔭 I’m currently working on **SpringBoot**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Spring Boot & React**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://muqsitsportfolio.netlify.app/#/home](https://muqsitsportfolio.netlify.app/#/home)
 
-- 💬 Ask me about **SpringBoot , react**
+- 💬 Ask me about **DataScience , DataAnalysis**
 
 - 📫 How to reach me **muqsithussain01@gmail.com**
 
